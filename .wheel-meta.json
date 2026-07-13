@@ -1,0 +1,18 @@
+{
+  "wheel_id": 76,
+  "structure": "umbrella",
+  "slug": "kitchenrenobrisbane-102",
+  "project": "kitchen-reno-brisbane-costs-k-102",
+  "parent_t1_ref": "kitchenrenobrisbane-001",
+  "node_role": "feeder",
+  "money_target": "kitchenrenobrisbane.com.au",
+  "primary_kw": "kitchen reno brisbane costs",
+  "intended_url": "https://kitchen-reno-brisbane-costs-k-102.s3.ap-southeast-2.amazonaws.com/index.html",
+  "links": [
+    {
+      "target_url": "https://kitchen-reno-brisbane-k-150.pages.dev/",
+      "anchor": "kitchen reno brisbane",
+      "rel": "follow"
+    }
+  ]
+}
