@@ -1,17 +1,17 @@
 {
-  "wheel_id": 76,
+  "wheel_id": 98,
   "structure": "umbrella",
   "slug": "kitchenrenobrisbane-102",
-  "project": "kitchen-reno-brisbane-costs-k-102",
-  "parent_t1_ref": "kitchenrenobrisbane-001",
+  "project": "custom-kitchen-cabinets-brisbane-costs-k-102",
+  "parent_t1_ref": "kitchenrenobrisbane-002",
   "node_role": "feeder",
   "money_target": "kitchenrenobrisbane.com.au",
-  "primary_kw": "kitchen reno brisbane costs",
-  "intended_url": "https://kitchen-reno-brisbane-costs-k-102.s3.ap-southeast-2.amazonaws.com/index.html",
+  "primary_kw": "custom kitchen cabinets brisbane costs",
+  "intended_url": "https://custom-kitchen-cabinets-brisbane-costs-k-102.pages.dev/",
   "links": [
     {
-      "target_url": "https://kitchen-reno-brisbane-k-150.pages.dev/",
-      "anchor": "kitchen reno brisbane",
+      "target_url": "https://aumedia.neocities.org/custom-kitchen-cabinets-brisbane-k-150/index.html",
+      "anchor": "custom kitchen cabinets brisbane",
       "rel": "follow"
     }
   ]
